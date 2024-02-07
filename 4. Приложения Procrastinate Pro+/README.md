@@ -13,4 +13,4 @@
 
 **Используемые библиотеки**
 
-*Pandas, Matplotlib, Seaborn, NumPy, SciPy, math*
+*Pandas, Matplotlib, Seaborn, NumPy, SciPy, Datetime*
